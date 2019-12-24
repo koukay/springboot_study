@@ -1,12 +1,3 @@
 server:
   port: 8080
-person:
-  name: houkai
-  age: 18
-  sex: 男
-  likes:
-    -sing
-    -play
-spring:
-  profiles:
-    active: dev
+
